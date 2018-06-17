@@ -1,3 +1,8 @@
+head (
+    text-decoration: underline;
+    margin: 100px auto;
+    color: red;
+}
 body {
     margin: 60px auto;
     width: 70%;
